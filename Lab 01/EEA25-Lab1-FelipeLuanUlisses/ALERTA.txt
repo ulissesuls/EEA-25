@@ -1,0 +1,1 @@
+os arquivos desta pasta encontram-se na raiz da pasta de instalação do msys64. Portanto, deve ser rodado pelo terminal msys64 por lá.
